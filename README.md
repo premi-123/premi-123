@@ -124,3 +124,28 @@ Currently building small Python programs to strengthen my programming fundamenta
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=premi-123&theme=tokyonight" />
 
 </div>
+
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/premalata-vajramatti01">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/premi-123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Learning today, building tomorrow." ✨
+
+</div>
