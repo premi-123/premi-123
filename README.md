@@ -98,3 +98,15 @@ Currently building small Python programs to strengthen my programming fundamenta
 - Lists and tuples
 - Number-based problems
 - Problem solving
+
+
+---
+
+## 📚 Currently Learning
+
+```text
+🐍 Python
+🗄️ SQL & MySQL
+🔧 Git & GitHub
+💻 Problem Solving
+🌐 Web Development
