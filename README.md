@@ -12,18 +12,14 @@
 
 ## 👩‍💻 About Me
 
-```text
-🎓 BCA Graduate
-💻 Aspiring Software Developer
-🐍 Currently learning Python
-🗄️ Learning SQL & MySQL
-🌐 Interested in Web Development
-🚀 Exploring Git & GitHub
-📚 Continuously improving my technical skills
-🎯 Looking forward to starting my professional career
-
-
-
+🎓 BCA Graduate  
+💻 Aspiring Software Developer  
+🐍 Currently learning Python  
+🗄️ Learning SQL & MySQL  
+🌐 Interested in Web Development  
+🚀 Exploring Git & GitHub  
+📚 Continuously improving my technical skills  
+🎯 Looking forward to starting my professional career  
 
 ---
 
@@ -34,6 +30,7 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### 🌐 Web Technologies
@@ -58,7 +55,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
 
 ---
 
@@ -99,17 +95,26 @@ Currently building small Python programs to strengthen my programming fundamenta
 - Number-based problems
 - Problem solving
 
-
 ---
 
 ## 📚 Currently Learning
 
-```text
-🐍 Python
-🗄️ SQL & MySQL
-🔧 Git & GitHub
-💻 Problem Solving
-🌐 Web Development
+🐍 **Python**  
+🗄️ **SQL & MySQL**  
+🔧 **Git & GitHub**  
+💻 **Problem Solving**  
+🌐 **Web Development**
+
+---
+
+## 🎯 My Goals
+
+- 💼 Start my career as a software professional
+- 🐍 Become strong in Python
+- 🗄️ Improve my SQL skills
+- 💻 Build real-world projects
+- 🚀 Improve my problem-solving skills
+- 🌱 Continuously learn new technologies
 
 ---
 
@@ -117,14 +122,13 @@ Currently building small Python programs to strengthen my programming fundamenta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=premi-123&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=premi-123&show_icons=true&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=premi-123&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=premi-123&theme=tokyonight"/>
 
 </div>
-
 
 ---
 
