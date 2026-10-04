@@ -58,3 +58,43 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+
+---
+
+## 🚀 Projects
+
+### 🧑‍💼 Employee Payroll & Leave Management System
+
+A database-based application for managing employee information, payroll, attendance, and leave records.
+
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+
+**Features:**
+- Employee details management
+- Payroll management
+- Leave approval
+- Attendance and salary information
+- MySQL database integration
+
+---
+
+### 🌐 Personal Portfolio Website
+
+A personal portfolio website created to showcase my skills, projects, and learning journey.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### 🐍 Python Practice Projects
+
+Currently building small Python programs to strengthen my programming fundamentals and problem-solving skills.
+
+**Topics:**
+- Variables and data types
+- Conditional statements
+- For and while loops
+- Lists and tuples
+- Number-based problems
+- Problem solving
