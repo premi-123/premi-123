@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**premi-123/premi-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Premalatha Vajramatti
 
-Here are some ideas to get you started:
+### BCA Graduate | Aspiring Software Developer | Python & SQL Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=premi-123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```text
+🎓 BCA Graduate
+💻 Aspiring Software Developer
+🐍 Currently learning Python
+🗄️ Learning SQL & MySQL
+🌐 Interested in Web Development
+🚀 Exploring Git & GitHub
+📚 Continuously improving my technical skills
+🎯 Looking forward to starting my professional career
