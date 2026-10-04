@@ -110,3 +110,17 @@ Currently building small Python programs to strengthen my programming fundamenta
 🔧 Git & GitHub
 💻 Problem Solving
 🌐 Web Development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=premi-123&show_icons=true&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=premi-123&theme=tokyonight" />
+
+</div>
